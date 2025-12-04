@@ -18,4 +18,11 @@ public class Day01Test
         var input = File.ReadAllLines("Day01/input-1-example.txt");
         Assert.AreEqual(3, _program.FirstExercise(input));
     }
+    
+    [TestMethod]
+    public void second_exercise_example()
+    {
+        var input = File.ReadAllLines("Day01/input-1-example.txt");
+        Assert.AreEqual(6, _program.SecondExercise(input));
+    }
 }
