@@ -1,6 +1,6 @@
-﻿namespace AdventOfCode.Day01;
+﻿namespace AdventOfCode.Puzzles;
 
-public class Day01
+public class Day01 : IDailyPuzzle
 {
     private class Dial
     {
