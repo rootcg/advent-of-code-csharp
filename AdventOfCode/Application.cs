@@ -6,7 +6,7 @@ public class Application
 {
     public static void Main(string[] args)
     {
-        Run(new Day02());
+        Run(new Day03());
     }
 
     private static void Run(IDailyPuzzle puzzle)

@@ -23,7 +23,7 @@ public class Day02 : IDailyPuzzle
 
     public long First(string[] input)
     {
-        var ranges = input[0].Split(',').Select(Range.From).ToArray();
+        var ranges = input[0].Split(',').Select(Range.From);
         return ranges.SelectMany(it => it.Iterate().Where(IsInvalidId)).Sum();
 
         bool IsInvalidId(long id)
@@ -35,7 +35,7 @@ public class Day02 : IDailyPuzzle
 
     public long Second(string[] input)
     {
-        var ranges = input[0].Split(',').Select(Range.From).ToArray();
+        var ranges = input[0].Split(',').Select(Range.From);
         return ranges.SelectMany(it => it.Iterate().Where(IsInvalidId)).Sum();
 
         bool IsInvalidId(long id)
