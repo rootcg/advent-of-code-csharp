@@ -46,7 +46,7 @@ public class Day01 : IDailyPuzzle
         }
     }
     
-    public int FirstExercise(string[] input)
+    public long First(string[] input)
     {
         var rotationsEndingOnZero = 0;
         
@@ -68,7 +68,7 @@ public class Day01 : IDailyPuzzle
         return rotationsEndingOnZero;
     }
     
-    public int SecondExercise(string[] input)
+    public long Second(string[] input)
     {
         var zeroPasses = 0;
         
