@@ -1,6 +1,7 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAnnotations_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002Evar_003Fapp_003Fcom_002Ejetbrains_002ERider_003Fconfig_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fb153369fa8993154b386b8c0b4a24f62395f169bf190b19b193ec650dc224fb_003FAnnotations_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AEnumerable_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002Evar_003Fapp_003Fcom_002Ejetbrains_002ERider_003Fconfig_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003Fbf56714b34b64c2e9e85a0382d02720aaa910_003F4f_003Fbc2a3243_003FEnumerable_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AThrowHelpers_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002Evar_003Fapp_003Fcom_002Ejetbrains_002ERider_003Fconfig_003FJetBrains_003FRider2025_002E3_003Fresharper_002Dhost_003FSourcesCache_003F7aa4c78f7a35574ae8754e2e1d462fce211f7cae47c24ddf791260cbc2e9f45f_003FThrowHelpers_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestProjectMapping/=E8635C14_002DB75E_002D44C1_002DBC46_002DDB51A1E6613C/@EntryIndexedValue">AdventOfCode.Tests</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/TestTemplateMapping/=MSTest/@EntryIndexedValue">d6790ab7-33c2-4425-b2c9-51480cd1a852</s:String>
 	<s:Boolean x:Key="/Default/Environment/UnitTesting/CreateUnitTestDialog/ShowAdvancedOptions/@EntryValue">True</s:Boolean>
@@ -19,6 +20,9 @@
     &lt;TestId&gt;MSTest::5D2474C3-A50D-47A3-9B50-0C345F1F6E05::net10.0::AdventOfCode.Tests.Puzzles.Day05Test&lt;/TestId&gt;
     &lt;TestId&gt;MSTest::5D2474C3-A50D-47A3-9B50-0C345F1F6E05::net10.0::AdventOfCode.Tests.Puzzles.Day06Test.first_exercise_example&lt;/TestId&gt;
     &lt;TestId&gt;MSTest::5D2474C3-A50D-47A3-9B50-0C345F1F6E05::net10.0::AdventOfCode.Tests.Puzzles.Day06Test&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::5D2474C3-A50D-47A3-9B50-0C345F1F6E05::net10.0::AdventOfCode.Tests.Puzzles.Day07Test.first_exercise_example&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::5D2474C3-A50D-47A3-9B50-0C345F1F6E05::net10.0::AdventOfCode.Tests.Puzzles.Day07Test.second_exercise_example&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::5D2474C3-A50D-47A3-9B50-0C345F1F6E05::net10.0::AdventOfCode.Tests.Puzzles.Day07Test&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String>
 	</wpf:ResourceDictionary>
